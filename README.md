@@ -1,16 +1,16 @@
-# Life (is tough) with chronic pain
+# Fiction interactive - Life (is tough) with chronic pain
 
-## About the project
+## Le project
 
-## The aim of the game
+## Les objectifs de ce projet 
 
-## How to download/use it
+## Comment le télécharger et comment jouer
 
-## Autors
+## Auteurs
 
-## Acknowledegments 
+## Remerciements
 
-## Bibliography
+## Bibliographie
 
 
 
