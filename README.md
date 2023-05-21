@@ -12,7 +12,7 @@ Cette thématique a été choisie pour correspondre aux exigences imposées par 
 
 ## Téléchargement et mécaniques de jeu
 Pour jouer à la fiction, téléchargez le dossier zippé (Life (is tough) with chronic pain.zip) sur votre appareil, ensuite dé-zippez le dossier et appuyer sur le fichier HTML. Le jeu se lancera alors dans une fenêtre de votre navigateur web.
-Il s'agit d'une fiction interactive à choix multiples; votre tâche sera de choisir parmi les diverses options qui s'offrent à vous avec pour objectif de finir votre journée en évitant le mal de tête (qui semble d'ailleurs être une personnalité plutôt persistante...). Pour cela, il vous suffit de cliquer avec votre souris sur les phrases de votre choix.
+Il s'agit d'une fiction interactive à choix multiples; votre tâche sera de choisir parmi les diverses options qui s'offrent à vous avec pour objectif de finir votre journée en évitant le mal de tête (qui semble d'ailleurs être une personnalité plutôt persistante...). Pour cela, il vous suffit de cliquer avec votre souris sur les phrases de votre choix. Ainsi, vous avez un impact sur le déroulement de l'histoire : il existe plusieurs chemins possibles! N'hésitez pas à relancer le jeu pour découvrir les différentes fins possibles.
 
 Merci pour votre intérêt envers ma fiction interactive et bon courage dans votre aventure !
 
