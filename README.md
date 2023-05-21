@@ -8,7 +8,7 @@ Le but de cette fiction est évident dès le début : imerger le.la joueur.euse 
 
 ![image](https://github.com/Nat0000/Fiction_interactive_migraines/assets/114563112/cb3619c2-342b-4261-a0d9-9e5dc81662e9)
 
-Cette thématique a été choisie pour correspondre aux exigences imposées par le cours, spécifiant que la fiction devrait avoir un aspect éducatif dans le domaine de la santé. Le choix était facile à faire puisque je suis moi-même concerné par ce problème de santé (cette fiction est donc grandement basée sur mon expérience personnelle). C'est pourquoi, ce jeu vise à rendre davantage visible les difficultés ainsi que les nuances existantes dans le monde des migraineux.euses!
+Cette thématique a été choisie pour correspondre aux exigences imposées par le cours, spécifiant que la fiction devrait avoir un aspect éducatif dans le domaine de la santé. Le choix était facile à faire puisque je suis moi-même concerné par ce problème (cette fiction est donc grandement basée sur mon expérience personnelle). C'est pourquoi, ce jeu vise à rendre davantage visible les difficultés ainsi que les nuances existantes dans le monde des migraineux.euses!
 
 ## Téléchargement et mécaniques de jeu
 Pour jouer à la fiction, téléchargez le dossier zippé (Life (is tough) with chronic pain.zip) sur votre appareil, ensuite dé-zippez le dossier et appuyer sur le fichier HTML. Le jeu se lancera alors dans une fenêtre de votre navigateur web.
