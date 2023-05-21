@@ -1,7 +1,7 @@
 # Fiction interactive - Life (is tough) with chronic pain
 
 ## Le project
-Voici ma toute première fiction interactive, développée dans le cadre de l'enseignement "Fiction Interactive 2022" dispensé par Isaac Pante (Faculté de Lettres à l'Université de Lausanne). Le projet est bien plus modeste au niveau technique que ce que j'imaginais au début mais le thème abordé me tient tout de même à coeur. La réalisation du jeu a été faite à l'aide du programme Inky.
+Voici ma toute première fiction interactive, développée dans le cadre de l'enseignement "Fiction Interactive 2022" dispensé par Isaac Pante (Faculté de Lettres à l'Université de Lausanne). Le projet est bien plus modeste au niveau technique que ce que j'imaginais au début mais le thème abordé me tient tout de même à coeur. La réalisation du jeu a été faite à l'aide du programme Inky et est rédigée en français.
 
 ## Les objectifs de ce projet 
 Le but de cette fiction est évident dès le début : imerger le.la joueur.euse dans la peau d'un.e étudiant.e universitaire souffrant de maux de têtes chroniques. Il s'agit de montrer le périple plus ou moins difficle (à vous de découvrir) des personnes atteintes de cette condition. 
