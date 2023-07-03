@@ -10,13 +10,12 @@ VAR painChoco = 0
 //améliorations possibles:
 //Je voulais faire changer la couleur de fond entre le noir et le blanc pour qu'il corresponde à la luminosité dans la fiction 
 //Je voulais aussi ajouter du bruit dans les endroits bruyants de la fiction + un bruit de fond d'acouphènes 
-//Quelques testeur.euse.s m'ont aussi fait la remarque que des couleurs différentes seraient utiles dans les dialogues/descriptions pour une compréhension plus facile
-
+//Quelques testeur.euse.s m'ont aussi fait la remarque que des couleurs différentes seraient utiles dans les dialogues/descriptions pour plus de compréhension
 
 Bienvenue dans "Life (is tough) with chronic pain", la fiction interactive où vous vous retrouvez dans la peau d'une personne avec des maux de tête chroniques! Faites de votre mieux pour que le mal de tête ne prenne pas le dessus sur votre journée. Bonne chance !
 *[Commencer cette magnifique journée.]
 
-//à la base je voulais donner le choix au joueur.euse quelle douleur iel voulait combattre (ça s'est avéré un peu trop compliqué avec mes capacités), les 3 choix ressembleraient à ceci:
+//à la base je voulais donner le choix au joueur.euse quelle douleur iel voulait combattre, les 3 choix ressembleraient à ceci:
 //*Jour 1 - Céphalée de tension
 //*Jour 2 - Migraine
 //*Ne pas avoir mal à la tête
